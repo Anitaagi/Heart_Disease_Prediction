@@ -58,14 +58,14 @@ clinical data collected during medical examinations.
 - **Jupyter Notebook** — Development environment
 
 ## 📂 Project Structure
-Heart_Disease_Prediction/
-├── HeartDiseaseApp.ipynb  # Main notebook with analysis
-├── app.py                 # Streamlit web application
-├── heart_model.pkl        # Trained ML model
-├── columns.pkl            # Feature columns
-├── heart.csv              # Dataset
-├── requirements.txt       # Dependencies
-└── README.md              # Project documentation
+Heart_Disease_Prediction
+HeartDiseaseApp.ipynb  # Main notebook with analysis
+app.py                 # Streamlit web application
+heart_model.pkl        # Trained ML model
+columns.pkl            # Feature columns
+heart.csv              # Dataset
+requirements.txt       # Dependencies
+README.md              # Project documentation
 ## 🚀 How to Run Locally
 1. Clone the repository
 ```bash
